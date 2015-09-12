@@ -1,0 +1,14 @@
+ISPIN  = 2
+NELECT = 49
+LREAL  = A
+ISMEAR = -5
+NBRION = 0
+NSW = 10
+LMAXMIX = 4
+LDAU     = T
+LDAUTYPE = 2
+LDAUL    = -1 -1 -1 -1  1
+LDAUU    =  0  0  0  0  8
+LASPH    = T
+LORBIT = 11
+NPAR = 9 
