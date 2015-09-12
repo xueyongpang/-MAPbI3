@@ -1,0 +1,17 @@
+ISPIN  = 2
+NELECT = 1349
+ISMEAR = 0
+IBRION = 2
+EDIFFG = -0.02
+LREAL = A
+PREC = Norm
+LMAXMIX = 4
+LDAU     = T
+LDAUTYPE = 2
+LDAUL    = -1 -1 -1 -1  1
+LDAUU    =  0  0  0  0  8
+LASPH    = T
+NPAR = 12
+NGX = 142
+NGY = 142
+NGZ = 142
