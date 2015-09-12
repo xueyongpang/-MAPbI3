@@ -10,3 +10,5 @@ LDA+U = LDA with U correction
 SC = self consistent run inputs/outputs
 
 DB = density of state/band structure inputs/outputs
+
+LessElec = 1 electron less for phonon calculations
